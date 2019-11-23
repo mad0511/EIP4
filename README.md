@@ -163,4 +163,5 @@
        
 #### Steps:
        Reduced the size of params to less than 15k.
+       Used Dropouts and set learning rate optimizer.
        
