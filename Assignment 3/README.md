@@ -5,9 +5,8 @@
 
 # My Model
 
-## Model Params :
 ## Highest Accuracy - 79.69
-
+## Model Params :
     Model: "sequential_1"
     _________________________________________________________________
     Layer (type)                 Output Shape              Param #   
